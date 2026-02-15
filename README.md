@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Developer;Problem+Solver;Hey,+I'm+Siddhant+Dwivedi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Problem+Solver;Hey,+I'm+Siddhant+Dwivedi" />
 </h1>
 
 <p align="center">
-  Building Scalable Backend Systems • DSA Enthusiast • Competitive Programmer
+  <b>Building Scalable Backend Systems • DSA Enthusiast • Competitive Programmer</b>
 </p>
 
 <p align="center">
@@ -16,6 +16,9 @@
   <a href="https://leetcode.com/u/NGL_coding_/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
+  <a href="https://codolio.com/profile/Freak">
+    <img src="https://img.shields.io/badge/Codolio-1A1F71?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -25,14 +28,15 @@
 ```yaml
 Name: Siddhant Dwivedi
 Education: B.Tech, MNNIT Allahabad (2022–2026)
-Focus: Backend Engineering + DSA
-Strengths: REST APIs, Authentication, Optimization, Scalable Systems
+Domain: Backend Engineering
+Interests: DSA • Competitive Programming • System Design
+Core Strengths: REST APIs • Authentication • DB Optimization • Scalable Architecture
 ```
 
 - 🏅 Knight Badge – LeetCode (Top 5%)
 - 🌍 Global Rank 1,274 – LC Weekly 438
 - 🚀 Top 10 – Hack-36 Hackathon
-- 💡 Passionate about clean architecture & performance tuning
+- 💡 Focused on writing clean, production-ready backend systems
 
 ---
 
@@ -44,28 +48,30 @@ Strengths: REST APIs, Authentication, Optimization, Scalable Systems
 - Designed secure REST APIs using **Node.js, Express, MongoDB**
 - Integrated **Google Gemini Pro API**
 - Implemented **JWT-based authentication & middleware validation**
-- Optimized DB queries to enhance response efficiency
-- Collaborated cross-functionally for seamless API delivery
+- Optimized MongoDB queries to improve response time
+- Worked closely with frontend & AI teams for seamless API integration
 
 ---
 
 ## 🚀 Projects
 
-### 🛡 PipeShield AI — Predictive Corrosion Monitoring
+### 🛡 PipeShield AI — Predictive Corrosion Monitoring  
 `Python | XGBoost | LightGBM | Random Forest | SVM`
 
-- Trained ML models on 1,000–5,000 industrial records
-- Applied correlation analysis & outlier handling
-- Deployed model for real-time prediction via backend service
+- Built ML models on 1,000–5,000 industrial data records
+- Performed feature engineering, correlation analysis & outlier removal
+- Achieved high accuracy across ensemble models
+- Deployed via backend service for real-time predictions
 
 ---
 
-### 🏥 MediConnect — Full-Stack Booking Platform
+### 🏥 MediConnect — Full-Stack Booking Platform  
 `React | Node.js | Express | MongoDB | JWT`
 
-- Implemented RBAC across 5 user roles & 15 endpoints
-- Reduced API response time by 40%
-- Built secure authentication + optimized backend queries
+- Implemented RBAC across 5 roles & 15+ protected endpoints
+- Reduced API response latency by 40%
+- Designed secure JWT authentication flow
+- Structured database schema for scalability
 
 ---
 
@@ -94,6 +100,12 @@ Strengths: REST APIs, Authentication, Optimization, Scalable Systems
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/NGL_coding_?theme=dark&font=baloo&ext=contest"/>
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/Freak">
+    <img src="https://img.shields.io/badge/View%20Full%20CP%20Profile-Codolio-1A1F71?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
