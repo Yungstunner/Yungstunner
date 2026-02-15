@@ -17,7 +17,10 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="https://codolio.com/profile/Freak">
-    <img src="https://img.shields.io/badge/Codolio-1A1F71?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codolio-1A1F71?style=for-the-badge"/>
+  </a>
+  <a href="https://siddhant-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
@@ -36,7 +39,7 @@ Core Strengths: REST APIs • Authentication • DB Optimization • Scalable Ar
 - 🏅 Knight Badge – LeetCode (Top 5%)
 - 🌍 Global Rank 1,274 – LC Weekly 438
 - 🚀 Top 10 – Hack-36 Hackathon
-- 💡 Focused on writing clean, production-ready backend systems
+- 💡 Passionate about clean backend architecture & performance tuning
 
 ---
 
@@ -48,8 +51,8 @@ Core Strengths: REST APIs • Authentication • DB Optimization • Scalable Ar
 - Designed secure REST APIs using **Node.js, Express, MongoDB**
 - Integrated **Google Gemini Pro API**
 - Implemented **JWT-based authentication & middleware validation**
-- Optimized MongoDB queries to improve response time
-- Worked closely with frontend & AI teams for seamless API integration
+- Optimized MongoDB queries to enhance performance
+- Collaborated cross-functionally for seamless API delivery
 
 ---
 
@@ -58,20 +61,19 @@ Core Strengths: REST APIs • Authentication • DB Optimization • Scalable Ar
 ### 🛡 PipeShield AI — Predictive Corrosion Monitoring  
 `Python | XGBoost | LightGBM | Random Forest | SVM`
 
-- Built ML models on 1,000–5,000 industrial data records
-- Performed feature engineering, correlation analysis & outlier removal
-- Achieved high accuracy across ensemble models
-- Deployed via backend service for real-time predictions
+- Trained ML models on 1,000–5,000 industrial records
+- Applied feature engineering & correlation analysis
+- Deployed via backend service for real-time inference
 
 ---
 
 ### 🏥 MediConnect — Full-Stack Booking Platform  
 `React | Node.js | Express | MongoDB | JWT`
 
-- Implemented RBAC across 5 roles & 15+ protected endpoints
-- Reduced API response latency by 40%
-- Designed secure JWT authentication flow
-- Structured database schema for scalability
+- Implemented RBAC across 5 roles & 15+ endpoints
+- Reduced API response time by 40%
+- Designed secure JWT-based authentication
+- Optimized backend queries & schema design
 
 ---
 
