@@ -58,24 +58,61 @@ Core Strengths: REST APIs • Authentication • DB Optimization • Scalable Ar
 
 ## 🚀 Projects
 
-### 🛡 PipeShield AI — Predictive Corrosion Monitoring  
-`Python | XGBoost | LightGBM | Random Forest | SVM`
 
-- Trained ML models on 1,000–5,000 industrial records
-- Applied feature engineering & correlation analysis
-- Deployed via backend service for real-time inference
+🔹 1. MediConnect – Doctor–Patient Booking Platform
+📌 Description
 
----
+MediConnect is a full-stack doctor–patient appointment booking platform built during Hack-36. It enables seamless scheduling, role-based dashboards, and efficient healthcare management for both doctors and patients.
 
-### 🏥 MediConnect — Full-Stack Booking Platform  
-`React | Node.js | Express | MongoDB | JWT`
+🚀 Features
+🧑‍⚕️ Role-based access for Patients, Doctors, and Admins (5 roles total)
+📅 Real-time appointment scheduling system
+🔐 Secure authentication using JWT
+📊 Dedicated dashboards for doctors and patients
+⚡ Optimized backend reducing API response time by 40%
+🎨 Responsive UI with reusable React components
+🛠 Tech Stack
+Frontend: React.js, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Auth: JWT, RBAC
+⚙️ Key Highlights
+Built 15+ REST APIs for booking, user management, and workflows
+Designed scalable MongoDB schema with optimized queries
+Created 10+ reusable UI components for consistency
+📈 Impact
+Successfully handled 50+ appointments
+Supported 10+ doctor dashboards
 
-- Implemented RBAC across 5 roles & 15+ endpoints
-- Reduced API response time by 40%
-- Designed secure JWT-based authentication
-- Optimized backend queries & schema design
 
----
+🔹 2. HireFusion – AI-Powered Recruitment Platform
+📌 Description
+
+HireFusion is an AI-powered recruitment platform that enables real-time interaction between recruiters and candidates, along with intelligent skill-gap analysis using machine learning.
+
+🚀 Features
+💼 Job posting and application management system
+🔐 Secure authentication with JWT & RBAC
+🔄 Real-time communication using Socket.io
+🤖 AI-based skill gap prediction using ML model
+🔔 Instant notifications for recruiters and candidates
+🛠 Tech Stack
+Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB
+Realtime: Socket.io
+ML Service: Flask (Random Forest)
+Deployment: Vercel, Render
+⚙️ Key Highlights
+Built 20+ REST APIs for job workflows and applications
+Integrated Flask microservice for ML predictions
+Enabled real-time bidirectional updates
+📈 Impact
+Improved hiring efficiency through AI-driven insights
+Delivered seamless recruiter–candidate interaction
+
+
+
 
 ## 🛠 Tech Stack
 
