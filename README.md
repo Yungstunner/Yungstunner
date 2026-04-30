@@ -56,60 +56,166 @@ Core Strengths: REST APIs • Authentication • DB Optimization • Scalable Ar
 
 ---
 
-## 🚀 Projects
 
+# 🚀 Projects Portfolio
 
-🔹 1. MediConnect – Doctor–Patient Booking Platform
-📌 Description
+A collection of my key full-stack and backend-focused projects showcasing scalable architecture, real-time systems, and AI integration.
 
-MediConnect is a full-stack doctor–patient appointment booking platform built during Hack-36. It enables seamless scheduling, role-based dashboards, and efficient healthcare management for both doctors and patients.
+---
 
-🚀 Features
-🧑‍⚕️ Role-based access for Patients, Doctors, and Admins (5 roles total)
-📅 Real-time appointment scheduling system
-🔐 Secure authentication using JWT
-📊 Dedicated dashboards for doctors and patients
-⚡ Optimized backend reducing API response time by 40%
-🎨 Responsive UI with reusable React components
-🛠 Tech Stack
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Auth: JWT, RBAC
-⚙️ Key Highlights
-Built 15+ REST APIs for booking, user management, and workflows
-Designed scalable MongoDB schema with optimized queries
-Created 10+ reusable UI components for consistency
-📈 Impact
-Successfully handled 50+ appointments
-Supported 10+ doctor dashboards
+## 🏥 MediConnect – Doctor–Patient Booking Platform
 
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 
-🔹 2. HireFusion – AI-Powered Recruitment Platform
-📌 Description
+### 📌 Description
+MediConnect is a full-stack doctor–patient appointment booking platform built during Hack-36. It enables seamless scheduling, secure authentication, and role-based dashboards for efficient healthcare management.
 
-HireFusion is an AI-powered recruitment platform that enables real-time interaction between recruiters and candidates, along with intelligent skill-gap analysis using machine learning.
+---
 
-🚀 Features
-💼 Job posting and application management system
-🔐 Secure authentication with JWT & RBAC
-🔄 Real-time communication using Socket.io
-🤖 AI-based skill gap prediction using ML model
-🔔 Instant notifications for recruiters and candidates
-🛠 Tech Stack
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Realtime: Socket.io
-ML Service: Flask (Random Forest)
-Deployment: Vercel, Render
-⚙️ Key Highlights
-Built 20+ REST APIs for job workflows and applications
-Integrated Flask microservice for ML predictions
-Enabled real-time bidirectional updates
-📈 Impact
-Improved hiring efficiency through AI-driven insights
-Delivered seamless recruiter–candidate interaction
+### 🚀 Features
+- 🧑‍⚕️ Role-based access (Admin, Doctor, Patient – 5 roles)
+- 📅 Appointment booking & scheduling system
+- 🔐 Secure authentication using JWT
+- 📊 Dedicated dashboards for doctors and patients
+- ⚡ Optimized backend reducing API response time by **40%**
+- 🎨 Reusable and responsive UI components
+
+---
+
+### 🛠 Tech Stack
+
+| Layer       | Technology              |
+|------------|------------------------|
+| Frontend    | React.js, Tailwind CSS |
+| Backend     | Node.js, Express.js    |
+| Database    | MongoDB                |
+| Auth        | JWT, RBAC              |
+
+---
+
+### 📡 API Endpoints
+
+| Method | Endpoint                | Description              |
+|--------|------------------------|--------------------------|
+| POST   | /api/auth/register     | Register user            |
+| POST   | /api/auth/login        | Login user               |
+| GET    | /api/doctors           | Fetch all doctors        |
+| POST   | /api/appointments      | Book appointment         |
+| GET    | /api/appointments      | Get user appointments    |
+| DELETE | /api/appointments/:id  | Cancel appointment       |
+
+---
+
+### 📸 Screenshots
+
+![Home](https://via.placeholder.com/800x400)
+![Booking](https://via.placeholder.com/800x400)
+![Dashboard](https://via.placeholder.com/800x400)
+
+---
+
+### ⚙️ Key Highlights
+- Built **15+ REST APIs**
+- Reduced response time by **40%**
+- Designed scalable MongoDB schema
+- Developed **10+ reusable components**
+
+---
+
+### 📈 Impact
+- Handled **50+ appointments**
+- Supported **10+ doctor dashboards**
+
+---
+
+<br/>
+
+## 💼 HireFusion – AI-Powered Recruitment Platform
+
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Socket.io](https://img.shields.io/badge/Realtime-Socket.io-black)
+![ML](https://img.shields.io/badge/ML-RandomForest-orange)
+
+### 📌 Description
+HireFusion is an AI-powered recruitment platform that enables real-time recruiter–candidate interaction along with intelligent skill-gap analysis using machine learning.
+
+---
+
+### 🚀 Features
+- 💼 Job posting & application management
+- 🔐 Secure authentication using JWT & RBAC
+- 🔄 Real-time communication with Socket.io
+- 🤖 AI-based skill gap prediction (ML model)
+- 🔔 Instant notifications system
+
+---
+
+### 🛠 Tech Stack
+
+| Layer       | Technology                  |
+|------------|-----------------------------|
+| Frontend    | React.js                    |
+| Backend     | Node.js, Express.js         |
+| Database    | MongoDB                     |
+| Realtime    | Socket.io                   |
+| ML Service  | Flask (Random Forest)       |
+| Deployment  | Vercel, Render              |
+
+---
+
+### 📡 API Endpoints
+
+| Method | Endpoint                | Description                      |
+|--------|------------------------|----------------------------------|
+| POST   | /api/auth/register     | Register user                    |
+| POST   | /api/auth/login        | Login user                       |
+| POST   | /api/jobs              | Create job                       |
+| GET    | /api/jobs              | Get all jobs                     |
+| POST   | /api/apply             | Apply for job                    |
+| GET    | /api/applications      | Fetch applications               |
+| POST   | /api/ml/predict        | Skill gap prediction             |
+| SOCKET | /chat                  | Real-time messaging              |
+
+---
+
+### 📸 Screenshots
+
+![Homepage](https://via.placeholder.com/800x400)
+![Chat](https://via.placeholder.com/800x400)
+![Dashboard](https://via.placeholder.com/800x400)
+
+---
+
+### ⚙️ Key Highlights
+- Built **20+ REST APIs**
+- Integrated ML microservice
+- Enabled real-time communication
+- Designed scalable backend architecture
+
+---
+
+### 📈 Impact
+- Improved hiring efficiency using AI insights
+- Delivered seamless recruiter–candidate interaction
+
+---
+
+## 🔥 Summary
+
+- Strong focus on **backend engineering & scalability**
+- Experience with **real-time systems & AI integration**
+- Built production-level projects with **clean architecture**
+
+---
+
+<p align="center">
+  <b>⭐ If you like these projects, consider giving a star!</b>
+</p>
 
 
 
