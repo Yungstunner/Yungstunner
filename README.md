@@ -109,12 +109,6 @@ MediConnect is a full-stack doctor–patient appointment booking platform built 
 
 ---
 
-### 📸 Screenshots
-
-![Home](https://via.placeholder.com/800x400)
-![Booking](https://via.placeholder.com/800x400)
-![Dashboard](https://via.placeholder.com/800x400)
-
 ---
 
 ### ⚙️ Key Highlights
@@ -182,13 +176,6 @@ HireFusion is an AI-powered recruitment platform that enables real-time recruite
 | SOCKET | /chat                  | Real-time messaging              |
 
 ---
-
-### 📸 Screenshots
-
-![Homepage](https://via.placeholder.com/800x400)
-![Chat](https://via.placeholder.com/800x400)
-![Dashboard](https://via.placeholder.com/800x400)
-
 ---
 
 ### ⚙️ Key Highlights
